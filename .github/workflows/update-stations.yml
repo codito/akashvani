@@ -1,0 +1,72 @@
+name: Update Radio Stations
+
+on:
+  # Run daily at midnight IST (18:30 UTC)
+  schedule:
+    - cron: '30 18 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+# Permission to write to the repository
+permissions:
+  contents: write
+
+jobs:
+  update-stations:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
+      
+      - name: Set up Python
+        run: uv python install 3.11
+      
+      - name: Create virtual environment and install dependencies
+        run: |
+          uv venv .venv
+          source .venv/bin/activate
+          uv pip install -r requirements.txt
+      
+      - name: Run scraper
+        id: scrape
+        run: |
+          source .venv/bin/activate
+          python scrape_radio.py
+          echo "exit_code=$?" >> $GITHUB_OUTPUT
+      
+      - name: Check for changes
+        id: changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: |
+          steps.scrape.outputs.exit_code == 0 &&
+          steps.changed.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md stations.json
+          git diff --cached --stat
+          git commit -m "Update radio stations list - $(date '+%Y-%m-%d')"
+          git push
+      
+      - name: Success message
+        if: steps.scrape.outputs.exit_code == 0
+        run: echo "Radio stations updated successfully"
+      
+      - name: Failure message
+        if: steps.scrape.outputs.exit_code != 0
+        run: |
+          echo "Failed to update radio stations"
+          exit 1
