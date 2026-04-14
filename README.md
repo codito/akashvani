@@ -4,9 +4,9 @@ List of All India Radio (Akashvani) stations updated daily.
 
 **How to use?**
 
-1. Use browser's search function to find a station below. See
+1. Use browser's search function (Control+F or Cmd+F) to find a station below. See
    [stations.json](./stations.json) for programmatic usage.
-2. Copy the `Stream URL` to use with your favorite radio player app.
+2. Copy the `Stream` link to use with your favorite radio player app.
 3. Check out the `Programme Guide` link for the station's daily programme.
 
 ---
