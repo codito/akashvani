@@ -127,7 +127,13 @@ def extract_stations_from_html(html, stream_urls):
 
         # Get EPG URL from .epg-button href
         epg_button = li.select_one(".epg-button")
-        epg_url = epg_button.get("href", "") if epg_button else ""
+        epg_url = ""
+        if epg_button:
+            raw_url = epg_button.get("href", "").strip()
+            # Validate: must be a proper URL (starts with http/https or /)
+            if raw_url and (raw_url.startswith("http") or raw_url.startswith("/")):
+                # Remove any trailing whitespace or malformed content
+                epg_url = raw_url.split()[0] if " " in raw_url else raw_url
 
         # Get stream URL from the channels dictionary
         stream_url = stream_urls.get(epg_id, {})

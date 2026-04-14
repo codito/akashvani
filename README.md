@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-04-14 09:29:09
+*Last updated: 2026-04-14 09:36:03
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -73,7 +73,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | VBS Ahmedabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8) | GUJARAT | Gujarati, Hindi | N/A |
 | Akashvani Ahwa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8) | GUJARAT | Gujarati, Hindi | N/A |
 | Akashvani Bhuj | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/292) |
-| Akashvani Godhra | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/307 target=) |
+| Akashvani Godhra | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/307) |
 | Akashvani Himmatnagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8) | GUJARAT | Gujarati, Hindi | N/A |
 | Akashvani Rajkot | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/153) |
 | VBS Rajkot | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/154) |
@@ -274,7 +274,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Almora | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8) | UTTARAKHAND | Garhwali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/326) |
 | Akashvani Dehradun | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8) | UTTARAKHAND | Garhwali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/408) |
 | Akashvani Pauri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8) | UTTARAKHAND | Garhwali, Hindi | N/A |
-| Akashvani Bangla | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8) | WEST BENGAL | Bengali | [EPG](4) |
+| Akashvani Bangla | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
 | Akashvani Kolkata Geetanjali | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
 | Akashvani Kolkata Sanchayita | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
 | FM Gold Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |

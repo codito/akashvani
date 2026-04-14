@@ -460,7 +460,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8",
     "state": "GUJARAT",
     "language": "Gujarati, Hindi",
-    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/307 target=",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/307",
     "epg_id": "89"
   },
   {
@@ -2068,7 +2068,7 @@
     "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8",
     "state": "WEST BENGAL",
     "language": "Bengali",
-    "epg_url": "4",
+    "epg_url": "",
     "epg_id": "283"
   },
   {
