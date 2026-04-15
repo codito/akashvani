@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-04-14 19:47:21
+*Last updated: 2026-04-15 19:47:53
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -191,7 +191,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Berhampur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/409) |
 | Akashvani Bhawanipatna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
 | Akashvani Balangir | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
-| Akashvani Odia | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
+| Akashvani Odia | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/180) |
 | FM Rainbow Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/374) |
 | VBS Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/343) |
 | Akashvani Jeypore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
