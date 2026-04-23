@@ -252,7 +252,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio055/playlist.m3u8",
     "state": "ASSAM",
     "language": "Assamese, Hindi, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/282",
     "epg_id": "295"
   },
   {
@@ -276,7 +276,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio270/playlist.m3u8",
     "state": "ASSAM",
     "language": "Assamese, Hindi, English",
-    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/705",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/392",
     "epg_id": "67"
   },
   {
@@ -316,7 +316,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8",
     "state": "BIHAR",
     "language": "Maithili, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/211",
     "epg_id": "72"
   },
   {
@@ -356,7 +356,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
     "state": "CHHATISGARH",
     "language": "Chhattisgarhi, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/316",
     "epg_id": "77"
   },
   {
@@ -364,7 +364,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8",
     "state": "CHHATISGARH",
     "language": "Chhattisgarhi, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/313",
     "epg_id": "78"
   },
   {
@@ -436,7 +436,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8",
     "state": "GUJARAT",
     "language": "Gujarati, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/339",
     "epg_id": "86"
   },
   {
@@ -444,7 +444,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8",
     "state": "GUJARAT",
     "language": "Gujarati, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/529",
     "epg_id": "87"
   },
   {
@@ -612,7 +612,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8",
     "state": "JHARKHAND",
     "language": "Nagpuri, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/493",
     "epg_id": "108"
   },
   {
@@ -764,7 +764,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/350",
     "epg_id": "127"
   },
   {
@@ -772,7 +772,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8",
     "state": "KARNATAKA",
     "language": "Tulu, Kannada, Hindi, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/344",
     "epg_id": "128"
   },
   {
@@ -836,7 +836,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/197",
     "epg_id": "136"
   },
   {
@@ -844,7 +844,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/302",
     "epg_id": "137"
   },
   {
@@ -948,7 +948,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8",
     "state": "MADHYA PRADESH",
     "language": "Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/421",
     "epg_id": "149"
   },
   {
@@ -1004,7 +1004,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8",
     "state": "MADHYA PRADESH",
     "language": "Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/273",
     "epg_id": "156"
   },
   {
@@ -1012,7 +1012,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8",
     "state": "MADHYA PRADESH",
     "language": "Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/305",
     "epg_id": "157"
   },
   {
@@ -1044,7 +1044,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/262",
     "epg_id": "161"
   },
   {
@@ -1052,7 +1052,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/173",
     "epg_id": "162"
   },
   {
@@ -1132,7 +1132,7 @@
     "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/127",
     "epg_id": "171"
   },
   {
@@ -1180,7 +1180,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/161",
     "epg_id": "177"
   },
   {
@@ -1204,7 +1204,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/171",
     "epg_id": "180"
   },
   {
@@ -1260,7 +1260,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8",
     "state": "MANIPUR",
     "language": "Manipuri, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/417",
     "epg_id": "187"
   },
   {
@@ -1372,7 +1372,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/418",
     "epg_id": "201"
   },
   {
@@ -1428,7 +1428,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/327",
     "epg_id": "208"
   },
   {
@@ -1436,7 +1436,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/432",
     "epg_id": "209"
   },
   {
@@ -1460,7 +1460,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/221",
     "epg_id": "212"
   },
   {
@@ -1524,7 +1524,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8",
     "state": "PUNJAB",
     "language": "Punjabi, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/237",
     "epg_id": "219"
   },
   {
@@ -1676,7 +1676,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8",
     "state": "RAJASTHAN",
     "language": "Rajasthani, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/149",
     "epg_id": "238"
   },
   {
@@ -1684,7 +1684,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8",
     "state": "RAJASTHAN",
     "language": "Rajasthani, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/highlights/150",
     "epg_id": "239"
   },
   {
@@ -1844,7 +1844,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
     "state": "TELANGANA",
     "language": "Telugu, Urdu, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/207",
     "epg_id": "256"
   },
   {
@@ -1860,7 +1860,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8",
     "state": "TELANGANA",
     "language": "Telugu, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/428",
     "epg_id": "258"
   },
   {
@@ -1876,7 +1876,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8",
     "state": "TELANGANA",
     "language": "Telugu, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/464",
     "epg_id": "260"
   },
   {
@@ -1884,7 +1884,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8",
     "state": "TRIPURA",
     "language": "Bengali, Kokborok, Hindi, and English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/438",
     "epg_id": "261"
   },
   {
@@ -1892,7 +1892,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8",
     "state": "TRIPURA",
     "language": "Bengali, Kokborok, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/highlights/438",
     "epg_id": "262"
   },
   {
@@ -2060,7 +2060,7 @@
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8",
     "state": "UTTARAKHAND",
     "language": "Garhwali, Hindi",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/306",
     "epg_id": "282"
   },
   {
@@ -2108,7 +2108,7 @@
     "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8",
     "state": "WEST BENGAL",
     "language": "Bengali, Hindi, English",
-    "epg_url": "",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/413",
     "epg_id": "288"
   },
   {

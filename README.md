@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-04-22 19:45:38
+*Last updated: 2026-04-23 19:47:53
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -47,21 +47,21 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Guwahati Prayagjyotishpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/383) |
 | Akashvani Haflong | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio258/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/458) |
 | Akashvani Jorhat | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio261/playlist.m3u8) | ASSAM | Assamese, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/445) |
-| Akashvani Kokrajhar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio055/playlist.m3u8) | ASSAM | Assamese, Hindi, English | N/A |
+| Akashvani Kokrajhar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio055/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/282) |
 | Akashvani Nagaon | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio260/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/425) |
 | Akashvani Silchar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8) | ASSAM | Bengali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/217) |
-| Akashvani Tezpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio270/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/705) |
+| Akashvani Tezpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio270/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/392) |
 | Akashvani Bhagalpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio292/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/223) |
 | Akashvani Darbhanga | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/333) |
 | Akashvani Patna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/337) |
 | FM Rainbow Patna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/338) |
-| VBS Patna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8) | BIHAR | Maithili, Hindi | N/A |
+| VBS Patna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/211) |
 | Akashvani Purnia Bihar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/205) |
 | Akashvani Sasaram | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/201) |
 | Akashvani Chandigarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8) | CHANDIGARH | Punjabi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/208) |
 | Akashvani Ambikapur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/176) |
-| Akashvani Bilaspur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | N/A |
-| Akashvani Jagdalpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | N/A |
+| Akashvani Bilaspur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/316) |
+| Akashvani Jagdalpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/313) |
 | Akashvani Raigarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/204) |
 | Akashvani Chhattisgarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/319) |
 | VBS Raipur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/320) |
@@ -70,8 +70,8 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Mhadei Panaji | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8) | GOA | Konkani, Marathi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/288) |
 | VBS Panaji | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8) | GOA | Konkani, Marathi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/334) |
 | Akashwani Gujarati | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/135) |
-| VBS Ahmedabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8) | GUJARAT | Gujarati, Hindi | N/A |
-| Akashvani Ahwa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8) | GUJARAT | Gujarati, Hindi | N/A |
+| VBS Ahmedabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/339) |
+| Akashvani Ahwa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/529) |
 | Akashvani Bhuj | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/292) |
 | Akashvani Godhra | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/307) |
 | Akashvani Himmatnagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8) | GUJARAT | Gujarati, Hindi | N/A |
@@ -92,7 +92,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Srinagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8) | JAMMU & KASHMIR | Dogri, Hindi, Urdu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/214) |
 | Akashvani Chaibasa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/460) |
 | Akashvani Daltonganj | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/405) |
-| Akashvani Hazaribagh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | N/A |
+| Akashvani Hazaribagh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/493) |
 | Akashvani Jamshedpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/209) |
 | VBS Jamshedpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/210) |
 | Akashvani Ranchi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/487) |
@@ -111,8 +111,8 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Hassan | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio172/playlist.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/379) |
 | Akashvani Hospet | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio184/playlist.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/277) |
 | Akashvani Karwar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio123/playlist.m3u8) | KARNATAKA | Kannada, Hindi, English | N/A |
-| Akashvani Mysuru | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8) | KARNATAKA | Kannada, Hindi, English | N/A |
-| Akashvani Mangalore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8) | KARNATAKA | Tulu, Kannada, Hindi, English | N/A |
+| Akashvani Mysuru | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/350) |
+| Akashvani Mangalore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8) | KARNATAKA | Tulu, Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/344) |
 | Akashvani Madikeri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8) | KARNATAKA | Kannada, Hindi, English | N/A |
 | Akashvani Raichur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio198/playlist.m3u8) | KARNATAKA | Kannada, Hindi, English | N/A |
 | Akashvani Devikulam | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio214/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/188) |
@@ -120,8 +120,8 @@ List of All India Radio (Akashvani) stations updated daily.
 | FM Rainbow Kochi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/430) |
 | Akashvani Kochi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/329) |
 | Akashvani Calicut | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8) | KERALA | Malayalam, English | N/A |
-| Akashvani Kozhikode Real FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8) | KERALA | Malayalam, English | N/A |
-| Akashvani Manjeri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8) | KERALA | Malayalam, English | N/A |
+| Akashvani Kozhikode Real FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/197) |
+| Akashvani Manjeri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/302) |
 | Akashvani Thrissur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/224) |
 | Akashvani Kerla | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/188) |
 | VB MALAYALAM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8) | KERALA | Malayalam, English | N/A |
@@ -134,20 +134,20 @@ List of All India Radio (Akashvani) stations updated daily.
 | VBS Bhopal | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio248/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/329) |
 | Akashvani Chhatarpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/274) |
 | Akashvani Chhindwara | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/195) |
-| Akashvani Guna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8) | MADHYA PRADESH | Hindi | N/A |
+| Akashvani Guna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/421) |
 | Akashvani Gwalior | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/310) |
 | Akashvani Indore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/253) |
 | VBS Indore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/255) |
 | Akashvani Jabalpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/306) |
 | Akashvani Jabalpur FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/306) |
 | Akashvani Khandwa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/252) |
-| Akashvani Rewa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8) | MADHYA PRADESH | Hindi | N/A |
-| Akashvani Sagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8) | MADHYA PRADESH | Hindi | N/A |
+| Akashvani Rewa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/273) |
+| Akashvani Sagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/305) |
 | Akashvani Shahdol | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/317) |
 | Akashvani Shivpuri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/250) |
 | Akashvani Ahilyanagar (Ahmednagar) | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/182) |
-| Akashvani Akola | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | N/A |
-| Akashvani Amravati | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | N/A |
+| Akashvani Akola | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/262) |
+| Akashvani Amravati | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/173) |
 | Akashvani Chhatrapati Sambhaji Nagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/268) |
 | Akashvani Beed | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/181) |
 | Akashvani Chandrapur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/286) |
@@ -157,23 +157,23 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Marathi Mumbai Asmita | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/126) |
 | FM Gold Mumbai | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/128) |
 | FM Rainbow Mumbai | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/129) |
-| Samvadita Mumbai | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | N/A |
+| Samvadita Mumbai | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/127) |
 | VBS Mumbai | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/133) |
 | VBS Nagpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/139) |
 | Akashvani Nagpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/138) |
 | Akashvani Nanded | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/226) |
 | Akashvani Nasik | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/155) |
-| Akashvani Dharashiv | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | N/A |
+| Akashvani Dharashiv | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/161) |
 | Akashvani Parbhani | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio085/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/583) |
 | Akashvani Pune | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/162) |
-| Akashvani Pune FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | N/A |
+| Akashvani Pune FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/171) |
 | Akashvani Ratnagiri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio071/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/170) |
 | Akashvani Sindhudurg | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/406) |
 | Akashvani Sangli | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/279) |
 | Akashvani Satara | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio076/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/142) |
 | Akashvani Solapur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/272) |
 | Akashvani Yavatmal | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio109/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/270) |
-| Akashvani Churachandpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8) | MANIPUR | Manipuri, Hindi | N/A |
+| Akashvani Churachandpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8) | MANIPUR | Manipuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/417) |
 | Akashvani Imphal Kangla | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio209/playlist.m3u8) | MANIPUR | Manipuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/414) |
 | Akashvani Imphal Sangai | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio210/playlist.m3u8) | MANIPUR | Manipuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/415) |
 | Akashvani Jowai | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio265/playlist.m3u8) | MEGHALAYA | Khasi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/715) |
@@ -187,18 +187,18 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Mokokchung | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio263/playlist.m3u8) | NAGALAND | Nagamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/717) |
 | Akashvani Kohima | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8) | NAGALAND | Nagamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/536) |
 | FM Tragopan Kohima | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8) | NAGALAND | Nagamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/244) |
-| Akashvani Baripada | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
+| Akashvani Baripada | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/418) |
 | Akashvani Berhampur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/409) |
 | Akashvani Bhawanipatna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
 | Akashvani Balangir | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
 | Akashvani Odia | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/180) |
 | FM Rainbow Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/374) |
 | VBS Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/343) |
-| Akashvani Jeypore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
-| Akashvani Joranda | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
+| Akashvani Jeypore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/327) |
+| Akashvani Joranda | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/432) |
 | Akashvani Keonjhar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio166/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/396) |
 | Akashvani Puri FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/218) |
-| Akashvani Rourkela | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
+| Akashvani Rourkela | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/221) |
 | Akashvani Mahanadi Sambalpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/390) |
 | Akashvani Sambalpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/390) |
 | Akashvani Karaikal | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8) | PUDUCHERRY | Tamil, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/407) |
@@ -206,7 +206,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | FM Rainbow Puducherry | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8) | PUDUCHERRY | Tamil, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/373) |
 | Akashvani Bhatinda | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8) | PUNJAB | Punjabi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/509) |
 | Akashvani Punjabi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8) | PUNJAB | Punjabi, Hindi | N/A |
-| FM Rainbow Jalandhar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8) | PUNJAB | Punjabi, Hindi | N/A |
+| FM Rainbow Jalandhar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8) | PUNJAB | Punjabi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/237) |
 | Akashvani Patiala | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8) | PUNJAB | Punjabi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/230) |
 | Akashvani Alwar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/172) |
 | Akashvani Banswara | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | N/A |
@@ -225,8 +225,8 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Nagaur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/158) |
 | Akashvani Sawai Madhopur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/159) |
 | Akashvani Suratgarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/165) |
-| Akashvani Udaipur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | N/A |
-| Akashvani Udaipur FM Lake City | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | N/A |
+| Akashvani Udaipur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/149) |
+| Akashvani Udaipur FM Lake City | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/highlights/150) |
 | Akashvani Gangtok | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8) | SIKKIM | Nepali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/331) |
 | Akashvani Tamil Nadu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/399) |
 | FM Gold Chennai | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/401) |
@@ -246,13 +246,13 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Tuticorin | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/312) |
 | Akashvani Adilabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/295) |
 | Akashvani Telangana | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/141) |
-| FM Rainbow Hyderabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8) | TELANGANA | Telugu, Urdu, Hindi | N/A |
+| FM Rainbow Hyderabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8) | TELANGANA | Telugu, Urdu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/207) |
 | VB Telugu Hyderabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8) | TELANGANA | Telugu, Urdu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/354) |
-| Akashvani Kothagudem | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8) | TELANGANA | Telugu, Hindi | N/A |
+| Akashvani Kothagudem | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/428) |
 | Akashvani Nizamabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/491) |
-| Akashvani Warangal | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8) | TELANGANA | Telugu, Hindi | N/A |
-| Akashvani Agartala | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8) | TRIPURA | Bengali, Kokborok, Hindi, and English | N/A |
-| FM Ujjayanta Agartala | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8) | TRIPURA | Bengali, Kokborok, Hindi | N/A |
+| Akashvani Warangal | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/464) |
+| Akashvani Agartala | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8) | TRIPURA | Bengali, Kokborok, Hindi, and English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/438) |
+| FM Ujjayanta Agartala | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8) | TRIPURA | Bengali, Kokborok, Hindi | [EPG](https://cuesheets.prasarbharati.org/highlights/438) |
 | Akashvani Belonia | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio257/playlist.m3u8) | TRIPURA | Bengali, Kokborok, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/617) |
 | Akashvani Kailashahar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio276/playlist.m3u8) | TRIPURA | Bengali, Kokborok, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/341) |
 | Akashvani Agra | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8) | UTTAR PRADESH | Hindi, Braj Bhasha | [EPG](https://cuesheets.prasarbharati.org/viewsheet/410) |
@@ -273,13 +273,13 @@ List of All India Radio (Akashvani) stations updated daily.
 | KumbhVani | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio300/playlist.m3u8) | UTTAR PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/5331) |
 | Akashvani Almora | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8) | UTTARAKHAND | Garhwali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/326) |
 | Akashvani Dehradun | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8) | UTTARAKHAND | Garhwali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/408) |
-| Akashvani Pauri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8) | UTTARAKHAND | Garhwali, Hindi | N/A |
+| Akashvani Pauri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8) | UTTARAKHAND | Garhwali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/306) |
 | Akashvani Bangla | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
 | Akashvani Kolkata Geetanjali | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
 | Akashvani Kolkata Sanchayita | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
 | FM Gold Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |
 | FM Rainbow Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |
-| VBS Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |
+| VBS Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/413) |
 | Akashvani Kurseong | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8) | WEST BENGAL | Bengali | [EPG](https://cuesheets.prasarbharati.org/viewsheet/287) |
 | Akashvani Murshidabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8) | WEST BENGAL | Bengali | N/A |
 | Akashvani Shantiniketan | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8) | WEST BENGAL | Bengali | N/A |
