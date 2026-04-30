@@ -200,6 +200,14 @@
     "epg_id": "58"
   },
   {
+    "name": "Akashvani Ziro",
+    "stream_url": "https://d3hrxqn1tritdh.cloudfront.net/1f4ec5a1ea8e9015/1f4ec5a1ea8e9015.m3u8",
+    "state": "ARUNACHAL PRADESH",
+    "language": "Hindi, English",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/404",
+    "epg_id": "398"
+  },
+  {
     "name": "Akashvani Dibrugarh",
     "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8",
     "state": "ASSAM",
