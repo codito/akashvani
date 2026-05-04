@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-05-03 19:31:48
+*Last updated: 2026-05-04 20:00:16
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -41,7 +41,6 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Pasighat | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio268/playlist.m3u8) | ARUNACHAL PRADESH | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/360) |
 | Akashvani Tawang | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio272/playlist.m3u8) | ARUNACHAL PRADESH | Monpa, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/592) |
 | Akashvani Tezu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio267/playlist.m3u8) | ARUNACHAL PRADESH | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/404) |
-| Akashvani Ziro | [Stream](https://d3hrxqn1tritdh.cloudfront.net/1f4ec5a1ea8e9015/1f4ec5a1ea8e9015.m3u8) | ARUNACHAL PRADESH | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/404) |
 | Akashvani Dibrugarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/275) |
 | Akashvani Diphu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio271/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/538) |
 | Akashvani Guwahati Mahabahu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/261) |
@@ -192,7 +191,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Berhampur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/409) |
 | Akashvani Bhawanipatna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
 | Akashvani Balangir | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
-| Akashvani Odia | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/180) |
+| Akashvani Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/180) |
 | FM Rainbow Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/374) |
 | VBS Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/343) |
 | Akashvani Jeypore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/327) |
