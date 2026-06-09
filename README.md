@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-06-08 20:37:27
+*Last updated: 2026-06-09 20:23:50
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -41,6 +41,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Pasighat | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio268/playlist.m3u8) | ARUNACHAL PRADESH | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/360) |
 | Akashvani Tawang | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio272/playlist.m3u8) | ARUNACHAL PRADESH | Monpa, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/592) |
 | Akashvani Tezu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio267/playlist.m3u8) | ARUNACHAL PRADESH | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/404) |
+| Akashvani Ziro | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio301/playlist.m3u8) | ARUNACHAL PRADESH | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/434) |
 | Akashvani Dibrugarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/275) |
 | Akashvani Diphu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio271/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/538) |
 | Akashvani Guwahati Mahabahu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/261) |
@@ -145,6 +146,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Sagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/305) |
 | Akashvani Shahdol | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/317) |
 | Akashvani Shivpuri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/250) |
+| Akashvani Ujjain | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio233/playlist.m3u8) | MADHYA PRADESH | Hindi | N/A |
 | Akashvani Ahilyanagar (Ahmednagar) | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/182) |
 | Akashvani Akola | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/262) |
 | Akashvani Amravati | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/173) |
