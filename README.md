@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-06-30 20:25:50
+*Last updated: 2026-07-01 20:20:48
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -210,25 +210,25 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Punjabi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8) | PUNJAB | Punjabi, Hindi | N/A |
 | FM Rainbow Jalandhar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8) | PUNJAB | Punjabi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/237) |
 | Akashvani Patiala | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8) | PUNJAB | Punjabi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/230) |
-| Akashvani Alwar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/172) |
-| Akashvani Banswara | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | N/A |
-| Akashvani Barmer | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio200/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/325) |
-| Akashvani Bikaner | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio053/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/169) |
-| Akashvani Chittorgarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/151) |
+| Akashvani Alwar | [Stream](https://radio.wavespb.com/live/67a9516c2ccd3fd5/67a9516c2ccd3fd5.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/172) |
+| Akashvani Banswara | [Stream](https://radio.wavespb.com/live/775687c68323aecb/775687c68323aecb.m3u8) | RAJASTHAN | Rajasthani, Hindi | N/A |
+| Akashvani Barmer | [Stream](https://radio.wavespb.com/live/a19c91113515497c/a19c91113515497c.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/325) |
+| Akashvani Bikaner | [Stream](https://radio.wavespb.com/live/e2588cb0ff825cd9/e2588cb0ff825cd9.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/169) |
+| Akashvani Chittorgarh | [Stream](https://radio.wavespb.com/live/227618c9892db107/227618c9892db107.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/151) |
 | Akashvani Churu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio226/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/147) |
-| Akashvani Jaipur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio192/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/166) |
-| VBS Jaipur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio193/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/152) |
+| Akashvani Jaipur | [Stream](https://radio.wavespb.com/live/ad081b4086797344/ad081b4086797344.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/166) |
+| VBS Jaipur | [Stream](https://radio.wavespb.com/live/72d34573791c739b/72d34573791c739b.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/152) |
 | Akashvani Jaisalmer | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio206/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/164) |
-| Akashvani Jhalawar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio157/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/163) |
-| Akashvani Jodhpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/192) |
+| Akashvani Jhalawar | [Stream](https://radio.wavespb.com/live/fdba5613a31b678b/fdba5613a31b678b.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/163) |
+| Akashvani Jodhpur | [Stream](https://radio.wavespb.com/live/520ec0fb4a9139a7/520ec0fb4a9139a7.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/192) |
 | Akashvani Jodhpur Sun City FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/193) |
-| Akashvani Kota | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio084/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/160) |
-| Akashvani Mount Abu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio159/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/186) |
-| Akashvani Nagaur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/158) |
-| Akashvani Sawai Madhopur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/159) |
-| Akashvani Suratgarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/165) |
-| Akashvani Udaipur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/149) |
-| Akashvani Udaipur FM Lake City | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/highlights/150) |
+| Akashvani Kota | [Stream](https://radio.wavespb.com/live/b5004d73a5aa6787/b5004d73a5aa6787.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/160) |
+| Akashvani Mount Abu | [Stream](https://radio.wavespb.com/live/550cfb9bbee7b16d/550cfb9bbee7b16d.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/186) |
+| Akashvani Nagaur | [Stream](https://radio.wavespb.com/live/09cb9a0f39768901/09cb9a0f39768901.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/158) |
+| Akashvani Sawai Madhopur | [Stream](https://radio.wavespb.com/live/9f2c9cb132d3ae49/9f2c9cb132d3ae49.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/159) |
+| Akashvani Suratgarh | [Stream](https://radio.wavespb.com/live/1c07d04e88eb31c8/1c07d04e88eb31c8.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/165) |
+| Akashvani Udaipur | [Stream](https://radio.wavespb.com/live/85190aca16096832/85190aca16096832.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/149) |
+| Akashvani Udaipur FM Lake City | [Stream](https://radio.wavespb.com/live/71d3cbef594e01a9/71d3cbef594e01a9.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/highlights/150) |
 | Akashvani Gangtok | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8) | SIKKIM | Nepali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/331) |
 | Akashvani Tamil Nadu | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/399) |
 | FM Gold Chennai | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/401) |
