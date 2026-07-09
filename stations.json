@@ -361,7 +361,7 @@
   },
   {
     "name": "Akashvani Bilaspur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/10dd6162d75fb6a4/10dd6162d75fb6a4.m3u8",
     "state": "CHHATISGARH",
     "language": "Chhattisgarhi, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/316",
@@ -385,7 +385,7 @@
   },
   {
     "name": "Akashvani Chhattisgarh",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/5ed52a2deec8534e/5ed52a2deec8534e.m3u8",
     "state": "CHHATISGARH",
     "language": "Chhattisgarhi, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/319",
@@ -430,6 +430,14 @@
     "language": "Konkani, Marathi, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/334",
     "epg_id": "85"
+  },
+  {
+    "name": "VBS Panaji",
+    "stream_url": "https://radio.wavespb.com/live/39dd51a3e97b19b1/39dd51a3e97b19b1.m3u8",
+    "state": "GOA",
+    "language": "Konkani, Marathi, Hindi",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/#",
+    "epg_id": "302"
   },
   {
     "name": "Akashwani Gujarati",
@@ -1161,7 +1169,7 @@
   },
   {
     "name": "VBS Nagpur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/019f90c3d79daeb9/019f90c3d79daeb9.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/139",
@@ -1169,7 +1177,7 @@
   },
   {
     "name": "Akashvani Nagpur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/84ad8273437552d7/84ad8273437552d7.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/138",
