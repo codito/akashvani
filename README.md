@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-07-09 20:14:52
+*Last updated: 2026-07-10 19:56:56
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -66,21 +66,21 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Raigarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/204) |
 | Akashvani Chhattisgarh | [Stream](https://radio.wavespb.com/live/5ed52a2deec8534e/5ed52a2deec8534e.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/319) |
 | VBS Raipur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/320) |
-| Akashvani Saraipali | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio254/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | N/A |
-| Akashvani Daman | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio208/playlist.m3u8) | DAMAN AND DIU | Gujarati, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/260) |
+| Akashvani Saraipali | [Stream](https://radio.wavespb.com/live/5ed52a2deec8534e/5ed52a2deec8534e.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | N/A |
+| Akashvani Daman | [Stream](https://radio.wavespb.com/live/c124a58382e75a46/c124a58382e75a46.m3u8) | DAMAN AND DIU | Gujarati, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/260) |
 | Akashvani Mhadei Panaji | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8) | GOA | Konkani, Marathi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/288) |
 | VBS Panaji | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8) | GOA | Konkani, Marathi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/334) |
 | VBS Panaji | [Stream](https://radio.wavespb.com/live/39dd51a3e97b19b1/39dd51a3e97b19b1.m3u8) | GOA | Konkani, Marathi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/#) |
-| Akashwani Gujarati | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/135) |
-| VBS Ahmedabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/339) |
+| Akashwani Gujarati | [Stream](https://radio.wavespb.com/live/8a1bb2ca9d2a6741/8a1bb2ca9d2a6741.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/135) |
+| VBS Ahmedabad | [Stream](https://radio.wavespb.com/live/983903b6acb669f3/983903b6acb669f3.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/339) |
 | Akashvani Ahwa | [Stream](https://radio.wavespb.com/live/0b169b8c30f2f151/0b169b8c30f2f151.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/529) |
 | Akashvani Bhuj | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/292) |
-| Akashvani Godhra | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/307) |
-| Akashvani Himmatnagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8) | GUJARAT | Gujarati, Hindi | N/A |
+| Akashvani Godhra | [Stream](https://radio.wavespb.com/live/3fa69e2c950b70e8/3fa69e2c950b70e8.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/307) |
+| Akashvani Himmatnagar | [Stream](https://radio.wavespb.com/live/76ca5a0d02d6ba94/76ca5a0d02d6ba94.m3u8) | GUJARAT | Gujarati, Hindi | N/A |
 | Akashvani Rajkot | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/153) |
 | VBS Rajkot | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/154) |
-| Akashvani Surat | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/175) |
-| Akashvani Vadodara | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/146) |
+| Akashvani Surat | [Stream](https://radio.wavespb.com/live/fc6ce69c53a3d739/fc6ce69c53a3d739.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/175) |
+| Akashvani Vadodara | [Stream](https://radio.wavespb.com/live/e1c63b2c2b58921f/e1c63b2c2b58921f.m3u8) | GUJARAT | Gujarati, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/146) |
 | Akashvani Hisar | [Stream](https://radio.wavespb.com/live/d3f37eacc0dc6495/d3f37eacc0dc6495.m3u8) | HARYANA | Haryanvi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/225) |
 | Akashvani Kurukshetra | [Stream](https://radio.wavespb.com/live/f71ea3f12ae3111c/f71ea3f12ae3111c.m3u8) | HARYANA | Haryanvi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/229) |
 | Akashvani Rohtak | [Stream](https://radio.wavespb.com/live/d617676f1e7ac0a1/d617676f1e7ac0a1.m3u8) | HARYANA | Haryanvi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/303) |
@@ -142,11 +142,11 @@ List of All India Radio (Akashvani) stations updated daily.
 | VBS Indore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/255) |
 | Akashvani Jabalpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/306) |
 | Akashvani Jabalpur FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/306) |
-| Akashvani Khandwa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/252) |
+| Akashvani Khandwa | [Stream](https://radio.wavespb.com/live/76260628792d0528/76260628792d0528.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/252) |
 | Akashvani Rewa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/273) |
 | Akashvani Sagar | [Stream](https://radio.wavespb.com/live/b60eae3df5a29197/b60eae3df5a29197.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/305) |
 | Akashvani Shahdol | [Stream](https://radio.wavespb.com/live/0f046e291da2017b/0f046e291da2017b.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/317) |
-| Akashvani Shivpuri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/250) |
+| Akashvani Shivpuri | [Stream](https://radio.wavespb.com/live/db8c03f2dcb2e896/db8c03f2dcb2e896.m3u8) | MADHYA PRADESH | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/250) |
 | Akashvani Ujjain | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio233/playlist.m3u8) | MADHYA PRADESH | Hindi | N/A |
 | Akashvani Ahilyanagar (Ahmednagar) | [Stream](https://radio.wavespb.com/live/e52945b98fa63678/e52945b98fa63678.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/182) |
 | Akashvani Akola | [Stream](https://radio.wavespb.com/live/5dd27f81c839f0f5/5dd27f81c839f0f5.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/262) |
