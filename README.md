@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-07-12 19:36:20
+*Last updated: 2026-07-13 19:55:48
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -58,7 +58,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | FM Rainbow Patna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/338) |
 | VBS Patna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/211) |
 | Akashvani Purnia Bihar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/205) |
-| Akashvani Sasaram | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/201) |
+| Akashvani Sasaram | [Stream](https://radio.wavespb.com/live/cd626d48acead509/cd626d48acead509.m3u8) | BIHAR | Maithili, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/201) |
 | Akashvani Chandigarh | [Stream](https://radio.wavespb.com/live/db4a912ff7882d9d/db4a912ff7882d9d.m3u8) | CHANDIGARH | Punjabi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/208) |
 | Akashvani Ambikapur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/176) |
 | Akashvani Bilaspur | [Stream](https://radio.wavespb.com/live/10dd6162d75fb6a4/10dd6162d75fb6a4.m3u8) | CHHATISGARH | Chhattisgarhi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/316) |
