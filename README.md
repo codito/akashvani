@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-07-13 19:55:48
+*Last updated: 2026-07-14 19:50:03
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -94,12 +94,12 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Srinagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8) | JAMMU & KASHMIR | Dogri, Hindi, Urdu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/214) |
 | Akashvani Chaibasa | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/460) |
 | Akashvani Daltonganj | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/405) |
-| Akashvani Hazaribagh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/493) |
-| Akashvani Jamshedpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/209) |
-| VBS Jamshedpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/210) |
-| Akashvani Ranchi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/487) |
-| FM Rainbow Ranchi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio253/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/489) |
-| VBS Ranchi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio250/playlist.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/488) |
+| Akashvani Hazaribagh | [Stream](https://radio.wavespb.com/live/db054b48293b8eb4/db054b48293b8eb4.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/493) |
+| Akashvani Jamshedpur | [Stream](https://radio.wavespb.com/live/c27e3dffec59b473/c27e3dffec59b473.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/209) |
+| VBS Jamshedpur | [Stream](https://radio.wavespb.com/live/ce9c6a3206b624a7/ce9c6a3206b624a7.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/210) |
+| Akashvani Ranchi | [Stream](https://radio.wavespb.com/live/66b77f1dfee894bc/66b77f1dfee894bc.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/487) |
+| FM Rainbow Ranchi | [Stream](https://radio.wavespb.com/live/af6f533f997d4ae1/af6f533f997d4ae1.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/489) |
+| VBS Ranchi | [Stream](https://radio.wavespb.com/live/d839e1ea3f3fd644/d839e1ea3f3fd644.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/488) |
 | Akashvani Bellari | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/403) |
 | Akashvani Karnataka | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/249) |
 | Amrutvarshini | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8) | KARNATAKA | Kannada, Hindi, English | N/A |
@@ -284,9 +284,9 @@ List of All India Radio (Akashvani) stations updated daily.
 | FM Gold Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |
 | FM Rainbow Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |
 | VBS Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/413) |
-| Akashvani Kurseong | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8) | WEST BENGAL | Bengali | [EPG](https://cuesheets.prasarbharati.org/viewsheet/287) |
+| Akashvani Kurseong | [Stream](https://radio.wavespb.com/live/1f781b48497e67d3/1f781b48497e67d3.m3u8) | WEST BENGAL | Bengali | [EPG](https://cuesheets.prasarbharati.org/viewsheet/287) |
 | Akashvani Murshidabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8) | WEST BENGAL | Bengali | N/A |
-| Akashvani Shantiniketan | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8) | WEST BENGAL | Bengali | N/A |
+| Akashvani Shantiniketan | [Stream](https://radio.wavespb.com/live/66249dfecaf80241/66249dfecaf80241.m3u8) | WEST BENGAL | Bengali | N/A |
 | Akashvani Maitree | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
-| Akashvani Siliguri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8) | WEST BENGAL | Bengali | [EPG](https://cuesheets.prasarbharati.org/viewsheet/482) |
+| Akashvani Siliguri | [Stream](https://radio.wavespb.com/live/165856ba98ca031a/165856ba98ca031a.m3u8) | WEST BENGAL | Bengali | [EPG](https://cuesheets.prasarbharati.org/viewsheet/482) |
 <!-- END: station list -->
