@@ -73,7 +73,7 @@
   },
   {
     "name": "Akashvani Anantapur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/3bcd83926d6c3cca/3bcd83926d6c3cca.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/347",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Akashvani Kadapa",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/26ec521ec4f7c684/26ec521ec4f7c684.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/389",
@@ -105,7 +105,7 @@
   },
   {
     "name": "FM Simahapuri Nellore",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/8bc9175bb717c13b/8bc9175bb717c13b.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/416",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Akashvani Andhra Pradesh",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/2d38e3dcb8d4e0a4/2d38e3dcb8d4e0a4.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/356",
@@ -129,7 +129,7 @@
   },
   {
     "name": "FM Rainbow Vijayawada",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/bad174fd7eac38d0/bad174fd7eac38d0.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/358",
@@ -137,7 +137,7 @@
   },
   {
     "name": "VB Telugu Vijayawada",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/0beac8e921bbfdbb/0beac8e921bbfdbb.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/357",
@@ -1913,7 +1913,7 @@
   },
   {
     "name": "Akashvani Agartala",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/8e8696f98500ad60/8e8696f98500ad60.m3u8",
     "state": "TRIPURA",
     "language": "Bengali, Kokborok, Hindi, and English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/438",
@@ -1937,7 +1937,7 @@
   },
   {
     "name": "Akashvani Kailashahar",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio276/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/c84f390b94a07703/c84f390b94a07703.m3u8",
     "state": "TRIPURA",
     "language": "Bengali, Kokborok, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/341",
