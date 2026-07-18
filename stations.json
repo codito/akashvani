@@ -9,7 +9,7 @@
   },
   {
     "name": "Vividh Bharati",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8",
     "state": "NATIONAL",
     "language": "Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/133",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Akashvani Dibrugarh",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/6db6683f71f6df13/6db6683f71f6df13.m3u8",
     "state": "ASSAM",
     "language": "Assamese, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/275",
@@ -601,7 +601,7 @@
   },
   {
     "name": "Akashvani Srinagar",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/01e2be674a0543a6/01e2be674a0543a6.m3u8",
     "state": "JAMMU & KASHMIR",
     "language": "Dogri, Hindi, Urdu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/214",
@@ -1313,7 +1313,7 @@
   },
   {
     "name": "Akashvani Shillong",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/8d920d17847ba75e/8d920d17847ba75e.m3u8",
     "state": "MEGHALAYA",
     "language": "Khasi, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/263",
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "FM Jongphi Shillong",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio264/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/989abf4a5fee9240/989abf4a5fee9240.m3u8",
     "state": "MEGHALAYA",
     "language": "Khasi, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/715",
@@ -1329,7 +1329,7 @@
   },
   {
     "name": "Akashvani North East Livestream",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/0ce240322bab1873/0ce240322bab1873.m3u8",
     "state": "MEGHALAYA",
     "language": "Khasi, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/376",
@@ -1537,7 +1537,7 @@
   },
   {
     "name": "Akashvani Punjabi",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/5adc4acbbdd1f6cf/5adc4acbbdd1f6cf.m3u8",
     "state": "PUNJAB",
     "language": "Punjabi, Hindi",
     "epg_url": "",

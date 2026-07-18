@@ -12,12 +12,12 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-07-17 19:37:44
+*Last updated: 2026-07-18 19:39:02
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
 | Live News 24x7 | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8) | NATIONAL | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/128) |
-| Vividh Bharati | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8) | NATIONAL | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/133) |
+| Vividh Bharati | [Stream](https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8) | NATIONAL | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/133) |
 | Raagam | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8) | NATIONAL | Hindi, Tamil, Telugu, Malayalam | [EPG](https://cuesheets.prasarbharati.org/viewsheet/349) |
 | FM Gold Delhi | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/244) |
 | FM Rainbow Delhi | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/243) |
@@ -42,7 +42,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Tawang | [Stream](https://radio.wavespb.com/live/0ab7e5a9701ec9e2/0ab7e5a9701ec9e2.m3u8) | ARUNACHAL PRADESH | Monpa, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/592) |
 | Akashvani Tezu | [Stream](https://radio.wavespb.com/live/7579db5ef9660a6e/7579db5ef9660a6e.m3u8) | ARUNACHAL PRADESH | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/404) |
 | Akashvani Ziro | [Stream](https://radio.wavespb.com/live/1f4ec5a1ea8e9015/1f4ec5a1ea8e9015.m3u8) | ARUNACHAL PRADESH | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/434) |
-| Akashvani Dibrugarh | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/275) |
+| Akashvani Dibrugarh | [Stream](https://radio.wavespb.com/live/6db6683f71f6df13/6db6683f71f6df13.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/275) |
 | Akashvani Diphu | [Stream](https://radio.wavespb.com/live/24092163948ab5d8/24092163948ab5d8.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/538) |
 | Akashvani Guwahati Mahabahu | [Stream](https://radio.wavespb.com/live/d1712a1355f27abb/d1712a1355f27abb.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/261) |
 | Akashvani Guwahati Prayagjyotishpur | [Stream](https://radio.wavespb.com/live/c8a130239e27ded0/c8a130239e27ded0.m3u8) | ASSAM | Assamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/383) |
@@ -91,7 +91,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Bhaderwah | [Stream](https://radio.wavespb.com/live/92100ec0c2058b1a/92100ec0c2058b1a.m3u8) | JAMMU & KASHMIR | Dogri, Hindi, Urdu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/323) |
 | Akashvani Jammu | [Stream](https://radio.wavespb.com/live/42c7dca503e95fec/42c7dca503e95fec.m3u8) | JAMMU & KASHMIR | Dogri, Hindi, Urdu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/265) |
 | Akashvani Kathua | [Stream](https://radio.wavespb.com/live/b4173082e8f5e716/b4173082e8f5e716.m3u8) | JAMMU & KASHMIR | Dogri, Hindi, Urdu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/291) |
-| Akashvani Srinagar | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8) | JAMMU & KASHMIR | Dogri, Hindi, Urdu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/214) |
+| Akashvani Srinagar | [Stream](https://radio.wavespb.com/live/01e2be674a0543a6/01e2be674a0543a6.m3u8) | JAMMU & KASHMIR | Dogri, Hindi, Urdu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/214) |
 | Akashvani Chaibasa | [Stream](https://radio.wavespb.com/live/4b077b809c20f314/4b077b809c20f314.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/460) |
 | Akashvani Daltonganj | [Stream](https://radio.wavespb.com/live/d94a676236c31713/d94a676236c31713.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/405) |
 | Akashvani Hazaribagh | [Stream](https://radio.wavespb.com/live/db054b48293b8eb4/db054b48293b8eb4.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/493) |
@@ -180,9 +180,9 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Imphal Kangla | [Stream](https://radio.wavespb.com/live/8fcf63e1a8d9016b/8fcf63e1a8d9016b.m3u8) | MANIPUR | Manipuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/414) |
 | Akashvani Imphal Sangai | [Stream](https://radio.wavespb.com/live/405d96a245accd64/405d96a245accd64.m3u8) | MANIPUR | Manipuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/415) |
 | Akashvani Jowai | [Stream](https://radio.wavespb.com/live/56465e7d42632ff1/56465e7d42632ff1.m3u8) | MEGHALAYA | Khasi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/715) |
-| Akashvani Shillong | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8) | MEGHALAYA | Khasi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/263) |
-| FM Jongphi Shillong | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio264/playlist.m3u8) | MEGHALAYA | Khasi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/715) |
-| Akashvani North East Livestream | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8) | MEGHALAYA | Khasi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/376) |
+| Akashvani Shillong | [Stream](https://radio.wavespb.com/live/8d920d17847ba75e/8d920d17847ba75e.m3u8) | MEGHALAYA | Khasi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/263) |
+| FM Jongphi Shillong | [Stream](https://radio.wavespb.com/live/989abf4a5fee9240/989abf4a5fee9240.m3u8) | MEGHALAYA | Khasi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/715) |
+| Akashvani North East Livestream | [Stream](https://radio.wavespb.com/live/0ce240322bab1873/0ce240322bab1873.m3u8) | MEGHALAYA | Khasi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/376) |
 | Akashvani Tura | [Stream](https://radio.wavespb.com/live/a4c3a057df68d422/a4c3a057df68d422.m3u8) | MEGHALAYA | Khasi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/477) |
 | Akashvani Aizawl | [Stream](https://radio.wavespb.com/live/6893614bef61d497/6893614bef61d497.m3u8) | MIZORAM | Mizo, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/426) |
 | FM Zoawi Aizawl | [Stream](https://radio.wavespb.com/live/443b0a952fbbe057/443b0a952fbbe057.m3u8) | MIZORAM | Mizo, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/427) |
@@ -208,7 +208,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Puducherry | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8) | PUDUCHERRY | Tamil, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/373) |
 | FM Rainbow Puducherry | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8) | PUDUCHERRY | Tamil, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/373) |
 | Akashvani Bhatinda | [Stream](https://radio.wavespb.com/live/8651d3d0c2021750/8651d3d0c2021750.m3u8) | PUNJAB | Punjabi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/509) |
-| Akashvani Punjabi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8) | PUNJAB | Punjabi, Hindi | N/A |
+| Akashvani Punjabi | [Stream](https://radio.wavespb.com/live/5adc4acbbdd1f6cf/5adc4acbbdd1f6cf.m3u8) | PUNJAB | Punjabi, Hindi | N/A |
 | FM Rainbow Jalandhar | [Stream](https://radio.wavespb.com/live/027744169f5fad66/027744169f5fad66.m3u8) | PUNJAB | Punjabi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/237) |
 | Akashvani Patiala | [Stream](https://radio.wavespb.com/live/8d1636496b33c77e/8d1636496b33c77e.m3u8) | PUNJAB | Punjabi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/230) |
 | Akashvani Ludhiana | [Stream](https://radio.wavespb.com/live/1a7150879f9e362c/1a7150879f9e362c.m3u8) | PUNJAB | Punjabi, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/535) |
