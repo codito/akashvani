@@ -65,7 +65,7 @@
   },
   {
     "name": "Akashvani Sri Vijaya Puram (Akashvani Port Blair)",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/dc9ff2a05098df5b/dc9ff2a05098df5b.m3u8",
     "state": "ANDAMAN NICOBAR",
     "language": "Hindi, English, Nicobarese",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/345",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Akashvani Kurnool",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/57d77b93b7580e24/57d77b93b7580e24.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/388",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Akashvani Markapur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/b11784e3b37b7620/b11784e3b37b7620.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/177",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Akashvani Tirupati",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/1119aa26b4e9f653/1119aa26b4e9f653.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/411",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Akashvani Visakhapatnam",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/8362d532bd498fd0/8362d532bd498fd0.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/283",
@@ -153,7 +153,7 @@
   },
   {
     "name": "FM Rainbow Visakhapatnam",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/147314c8aedf4389/147314c8aedf4389.m3u8",
     "state": "ANDHRA PRADESH",
     "language": "Telugu",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/289",
@@ -608,6 +608,14 @@
     "epg_id": "105"
   },
   {
+    "name": "Akashvani Poonch",
+    "stream_url": "https://radio.wavespb.com/live/a52d55fcbee4f4db/a52d55fcbee4f4db.m3u8",
+    "state": "JAMMU & KASHMIR",
+    "language": "Dogri, Hindi, Urdu",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/#",
+    "epg_id": "303"
+  },
+  {
     "name": "Akashvani Chaibasa",
     "stream_url": "https://radio.wavespb.com/live/4b077b809c20f314/4b077b809c20f314.m3u8",
     "state": "JHARKHAND",
@@ -713,7 +721,7 @@
   },
   {
     "name": "Akashvani Bhadravati",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio211/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/ad5b1f0e1fd2e000/ad5b1f0e1fd2e000.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/369",
@@ -793,7 +801,7 @@
   },
   {
     "name": "Akashvani Madikeri",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/5f58506ab7d090ec/5f58506ab7d090ec.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "",
