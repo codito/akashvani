@@ -729,7 +729,7 @@
   },
   {
     "name": "Akashvani Bijapur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio145/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/8a8894314ac7be31/8a8894314ac7be31.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "",
@@ -737,7 +737,7 @@
   },
   {
     "name": "Akashvani Chitradurga",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio105/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/c0b739e6443d99be/c0b739e6443d99be.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/386",
@@ -745,7 +745,7 @@
   },
   {
     "name": "Akashvani Dharwad",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio150/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/449dcf0b33491e65/449dcf0b33491e65.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/472",
@@ -753,7 +753,7 @@
   },
   {
     "name": "Akashvani Kalaburgi (Gulbarga)",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/9b085f63b2c25275/9b085f63b2c25275.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "",
@@ -761,7 +761,7 @@
   },
   {
     "name": "Akashvani Hassan",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio172/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/9b1044084099f01c/9b1044084099f01c.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/379",
@@ -777,7 +777,7 @@
   },
   {
     "name": "Akashvani Karwar",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio123/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/723ab703b250900f/723ab703b250900f.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "",
@@ -785,7 +785,7 @@
   },
   {
     "name": "Akashvani Mysuru",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/9d18e57ddfb1d4b4/9d18e57ddfb1d4b4.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/350",
@@ -793,7 +793,7 @@
   },
   {
     "name": "Akashvani Mangalore",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/3c522579906d4dcb/3c522579906d4dcb.m3u8",
     "state": "KARNATAKA",
     "language": "Tulu, Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/344",
@@ -809,7 +809,7 @@
   },
   {
     "name": "Akashvani Raichur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio198/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/e39bab8a1a843e9e/e39bab8a1a843e9e.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "",
@@ -817,7 +817,7 @@
   },
   {
     "name": "Akashvani Devikulam",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio214/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/e97acc829da9bf2a/e97acc829da9bf2a.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/188",
@@ -873,7 +873,7 @@
   },
   {
     "name": "Akashvani Thrissur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/f70fdeca437dc326/f70fdeca437dc326.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/224",
@@ -913,7 +913,7 @@
   },
   {
     "name": "Akashvani Kavaratti",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio189/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/ffb3825f86c4b9e3/ffb3825f86c4b9e3.m3u8",
     "state": "LAKSHADWEEP",
     "language": "Malayalam, Hindi​, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/412",
@@ -1513,7 +1513,7 @@
   },
   {
     "name": "Akashvani Karaikal",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/51065e9e2f00e83e/51065e9e2f00e83e.m3u8",
     "state": "PUDUCHERRY",
     "language": "Tamil, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/407",
@@ -1521,7 +1521,7 @@
   },
   {
     "name": "Akashvani Puducherry",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/6b93ba50696fddcd/6b93ba50696fddcd.m3u8",
     "state": "PUDUCHERRY",
     "language": "Tamil, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/373",
@@ -1529,7 +1529,7 @@
   },
   {
     "name": "FM Rainbow Puducherry",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/0e2a3509c6d25e11/0e2a3509c6d25e11.m3u8",
     "state": "PUDUCHERRY",
     "language": "Tamil, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/373",
