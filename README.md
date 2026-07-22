@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-07-21 19:58:15
+*Last updated: 2026-07-22 19:50:50
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -119,7 +119,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Madikeri | [Stream](https://radio.wavespb.com/live/5f58506ab7d090ec/5f58506ab7d090ec.m3u8) | KARNATAKA | Kannada, Hindi, English | N/A |
 | Akashvani Raichur | [Stream](https://radio.wavespb.com/live/e39bab8a1a843e9e/e39bab8a1a843e9e.m3u8) | KARNATAKA | Kannada, Hindi, English | N/A |
 | Akashvani Devikulam | [Stream](https://radio.wavespb.com/live/e97acc829da9bf2a/e97acc829da9bf2a.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/188) |
-| Akashvani Kannur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/322) |
+| Akashvani Kannur | [Stream](https://radio.wavespb.com/live/b82c91a395fc4a7d/b82c91a395fc4a7d.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/322) |
 | FM Rainbow Kochi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/430) |
 | Akashvani Kochi | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/329) |
 | Akashvani Calicut | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8) | KERALA | Malayalam, English | N/A |
@@ -243,19 +243,19 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Kodaikanal | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/256) |
 | Akashvani Madurai | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/385) |
 | FM Nagercoil Kumari | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/342) |
-| Akashvani Ooty | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio207/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/156) |
+| Akashvani Ooty | [Stream](https://radio.wavespb.com/live/e2ac3971fdada7d1/e2ac3971fdada7d1.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/156) |
 | Akashvani Tiruchirappalli | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/198) |
 | Akashvani Tiruchirappalli FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/199) |
 | Akashvani Tirunelveli | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/352) |
 | FM Rainbow Tirunelveli | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/353) |
 | Akashvani Tuticorin | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/312) |
 | Akashvani Adilabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/295) |
-| Akashvani Telangana | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/141) |
-| FM Rainbow Hyderabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8) | TELANGANA | Telugu, Urdu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/207) |
-| VB Telugu Hyderabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8) | TELANGANA | Telugu, Urdu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/354) |
+| Akashvani Telangana | [Stream](https://radio.wavespb.com/live/1c701f7b70df2568/1c701f7b70df2568.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/141) |
+| FM Rainbow Hyderabad | [Stream](https://radio.wavespb.com/live/3a02c5c035815bb9/3a02c5c035815bb9.m3u8) | TELANGANA | Telugu, Urdu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/207) |
+| VB Telugu Hyderabad | [Stream](https://radio.wavespb.com/live/89969ad91f106dde/89969ad91f106dde.m3u8) | TELANGANA | Telugu, Urdu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/354) |
 | Akashvani Kothagudem | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/428) |
-| Akashvani Nizamabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/491) |
-| Akashvani Warangal | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/464) |
+| Akashvani Nizamabad | [Stream](https://radio.wavespb.com/live/5d9989b5189a8f4a/5d9989b5189a8f4a.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/491) |
+| Akashvani Warangal | [Stream](https://radio.wavespb.com/live/deae7120a205bfff/deae7120a205bfff.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/464) |
 | Akashvani Agartala | [Stream](https://radio.wavespb.com/live/8e8696f98500ad60/8e8696f98500ad60.m3u8) | TRIPURA | Bengali, Kokborok, Hindi, and English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/438) |
 | FM Ujjayanta Agartala | [Stream](https://radio.wavespb.com/live/d65912ef9829b8c9/d65912ef9829b8c9.m3u8) | TRIPURA | Bengali, Kokborok, Hindi | [EPG](https://cuesheets.prasarbharati.org/highlights/438) |
 | Akashvani Belonia | [Stream](https://radio.wavespb.com/live/00ff79c493fe8353/00ff79c493fe8353.m3u8) | TRIPURA | Bengali, Kokborok, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/617) |
