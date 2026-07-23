@@ -769,7 +769,7 @@
   },
   {
     "name": "Akashvani Hospet",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio184/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/113d144f4ecf1dd5/113d144f4ecf1dd5.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/277",
@@ -833,7 +833,7 @@
   },
   {
     "name": "FM Rainbow Kochi",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/7df6f2a8c3c4d33b/7df6f2a8c3c4d33b.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/430",
@@ -841,7 +841,7 @@
   },
   {
     "name": "Akashvani Kochi",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/70400e7510e87cdf/70400e7510e87cdf.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/329",
@@ -849,7 +849,7 @@
   },
   {
     "name": "Akashvani Calicut",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/8321393de70015fc/8321393de70015fc.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
     "epg_url": "",
@@ -857,7 +857,7 @@
   },
   {
     "name": "Akashvani Kozhikode Real FM",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/b69c296065db7627/b69c296065db7627.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/197",
@@ -880,8 +880,8 @@
     "epg_id": "138"
   },
   {
-    "name": "Akashvani Kerla",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+    "name": "Akashvani Kerala",
+    "stream_url": "https://radio.wavespb.com/live/6ff13de7ea9b53d7/6ff13de7ea9b53d7.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/188",
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "Akashvani Baripada",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/9a5be453a1319cad/9a5be453a1319cad.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/418",
@@ -1473,7 +1473,7 @@
   },
   {
     "name": "Akashvani Keonjhar",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio166/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/e1afe27f9ccb5046/e1afe27f9ccb5046.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/396",
@@ -1737,7 +1737,7 @@
   },
   {
     "name": "Akashvani Tamil Nadu",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/d533f2af4f49bd6f/d533f2af4f49bd6f.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/399",
@@ -1745,7 +1745,7 @@
   },
   {
     "name": "FM Gold Chennai",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/84ad819b3f45dc08/84ad819b3f45dc08.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/401",
@@ -1753,7 +1753,7 @@
   },
   {
     "name": "FM Rainbow Chennai",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/b20ff2fc0bb34b3d/b20ff2fc0bb34b3d.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/401",
@@ -1761,7 +1761,7 @@
   },
   {
     "name": "VB Tamil Chennai",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/f893db91dedcb4ab/f893db91dedcb4ab.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/474",
@@ -1769,7 +1769,7 @@
   },
   {
     "name": "Akashvani Coimbatore",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/a6eec8ec7d6ee49d/a6eec8ec7d6ee49d.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/280",
@@ -1777,7 +1777,7 @@
   },
   {
     "name": "FM Rainbow Coimbatore",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/3622d8d5aa1809b2/3622d8d5aa1809b2.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/281",
@@ -1785,7 +1785,7 @@
   },
   {
     "name": "Akashvani Dharmapuri",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/36378083c1be092b/36378083c1be092b.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/624",
@@ -1809,7 +1809,7 @@
   },
   {
     "name": "FM Nagercoil Kumari",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/10c64309264eb009/10c64309264eb009.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/342",
@@ -1841,7 +1841,7 @@
   },
   {
     "name": "Akashvani Tirunelveli",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/ee7f2a29ab3b6bf9/ee7f2a29ab3b6bf9.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/352",
@@ -1849,7 +1849,7 @@
   },
   {
     "name": "FM Rainbow Tirunelveli",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/a8b9f00a52568fbd/a8b9f00a52568fbd.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/353",
@@ -1857,7 +1857,7 @@
   },
   {
     "name": "Akashvani Tuticorin",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/2e8cfad789dc692d/2e8cfad789dc692d.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/312",
@@ -1865,7 +1865,7 @@
   },
   {
     "name": "Akashvani Adilabad",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/e47c5f0cec4af335/e47c5f0cec4af335.m3u8",
     "state": "TELANGANA",
     "language": "Telugu, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/295",
