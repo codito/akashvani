@@ -72,6 +72,14 @@
     "epg_id": "42"
   },
   {
+    "name": "Vividh Bharati Vijayapuram",
+    "stream_url": "https://radio.wavespb.com/live/fbc6b60c0bdf0293/fbc6b60c0bdf0293.m3u8",
+    "state": "ANDAMAN NICOBAR",
+    "language": "Hindi, English, Nicobarese",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/#",
+    "epg_id": "304"
+  },
+  {
     "name": "Akashvani Anantapur",
     "stream_url": "https://radio.wavespb.com/live/3bcd83926d6c3cca/3bcd83926d6c3cca.m3u8",
     "state": "ANDHRA PRADESH",
@@ -1409,7 +1417,7 @@
   },
   {
     "name": "Akashvani Berhampur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/9ff9e2581893d28d/9ff9e2581893d28d.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/409",
@@ -1425,7 +1433,7 @@
   },
   {
     "name": "Akashvani Balangir",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/6a8a1c15dc441c4e/6a8a1c15dc441c4e.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "",
@@ -1481,7 +1489,7 @@
   },
   {
     "name": "Akashvani Puri FM",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/82893b35c7d1fa49/82893b35c7d1fa49.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/218",
@@ -1897,7 +1905,7 @@
   },
   {
     "name": "Akashvani Kothagudem",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/8416764ec0889597/8416764ec0889597.m3u8",
     "state": "TELANGANA",
     "language": "Telugu, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/428",

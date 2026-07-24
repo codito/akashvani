@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-07-23 19:53:00
+*Last updated: 2026-07-24 19:52:43
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -25,6 +25,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | VBS Delhi | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/334) |
 | Akashvani Aaradhana | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8) | DELHI | Hindi | N/A |
 | Akashvani Sri Vijaya Puram (Akashvani Port Blair) | [Stream](https://radio.wavespb.com/live/dc9ff2a05098df5b/dc9ff2a05098df5b.m3u8) | ANDAMAN NICOBAR | Hindi, English, Nicobarese | [EPG](https://cuesheets.prasarbharati.org/viewsheet/345) |
+| Vividh Bharati Vijayapuram | [Stream](https://radio.wavespb.com/live/fbc6b60c0bdf0293/fbc6b60c0bdf0293.m3u8) | ANDAMAN NICOBAR | Hindi, English, Nicobarese | [EPG](https://cuesheets.prasarbharati.org/viewsheet/#) |
 | Akashvani Anantapur | [Stream](https://radio.wavespb.com/live/3bcd83926d6c3cca/3bcd83926d6c3cca.m3u8) | ANDHRA PRADESH | Telugu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/347) |
 | Akashvani Kadapa | [Stream](https://radio.wavespb.com/live/26ec521ec4f7c684/26ec521ec4f7c684.m3u8) | ANDHRA PRADESH | Telugu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/389) |
 | Akashvani Kurnool | [Stream](https://radio.wavespb.com/live/57d77b93b7580e24/57d77b93b7580e24.m3u8) | ANDHRA PRADESH | Telugu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/388) |
@@ -192,16 +193,16 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Kohima | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8) | NAGALAND | Nagamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/536) |
 | FM Tragopan Kohima | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8) | NAGALAND | Nagamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/244) |
 | Akashvani Baripada | [Stream](https://radio.wavespb.com/live/9a5be453a1319cad/9a5be453a1319cad.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/418) |
-| Akashvani Berhampur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/409) |
+| Akashvani Berhampur | [Stream](https://radio.wavespb.com/live/9ff9e2581893d28d/9ff9e2581893d28d.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/409) |
 | Akashvani Bhawanipatna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
-| Akashvani Balangir | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
+| Akashvani Balangir | [Stream](https://radio.wavespb.com/live/6a8a1c15dc441c4e/6a8a1c15dc441c4e.m3u8) | ODISHA | Odia, Hindi | N/A |
 | Akashvani Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/180) |
 | FM Rainbow Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/374) |
 | VBS Cuttack | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/343) |
 | Akashvani Jeypore | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/327) |
 | Akashvani Joranda | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/432) |
 | Akashvani Keonjhar | [Stream](https://radio.wavespb.com/live/e1afe27f9ccb5046/e1afe27f9ccb5046.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/396) |
-| Akashvani Puri FM | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/218) |
+| Akashvani Puri FM | [Stream](https://radio.wavespb.com/live/82893b35c7d1fa49/82893b35c7d1fa49.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/218) |
 | Akashvani Rourkela | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/221) |
 | Akashvani Mahanadi Sambalpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/390) |
 | Akashvani Sambalpur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/390) |
@@ -253,7 +254,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Telangana | [Stream](https://radio.wavespb.com/live/1c701f7b70df2568/1c701f7b70df2568.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/141) |
 | FM Rainbow Hyderabad | [Stream](https://radio.wavespb.com/live/3a02c5c035815bb9/3a02c5c035815bb9.m3u8) | TELANGANA | Telugu, Urdu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/207) |
 | VB Telugu Hyderabad | [Stream](https://radio.wavespb.com/live/89969ad91f106dde/89969ad91f106dde.m3u8) | TELANGANA | Telugu, Urdu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/354) |
-| Akashvani Kothagudem | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/428) |
+| Akashvani Kothagudem | [Stream](https://radio.wavespb.com/live/8416764ec0889597/8416764ec0889597.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/428) |
 | Akashvani Nizamabad | [Stream](https://radio.wavespb.com/live/5d9989b5189a8f4a/5d9989b5189a8f4a.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/491) |
 | Akashvani Warangal | [Stream](https://radio.wavespb.com/live/deae7120a205bfff/deae7120a205bfff.m3u8) | TELANGANA | Telugu, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/464) |
 | Akashvani Agartala | [Stream](https://radio.wavespb.com/live/8e8696f98500ad60/8e8696f98500ad60.m3u8) | TRIPURA | Bengali, Kokborok, Hindi, and English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/438) |
