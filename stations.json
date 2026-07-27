@@ -689,7 +689,7 @@
   },
   {
     "name": "Akashvani Bellari",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/5a457983e1e7e12f/5a457983e1e7e12f.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/403",
@@ -897,7 +897,7 @@
   },
   {
     "name": "VB MALAYALAM",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/ad3a8436a329e2d6/ad3a8436a329e2d6.m3u8",
     "state": "KERALA",
     "language": "Malayalam, English",
     "epg_url": "",
@@ -1393,7 +1393,7 @@
   },
   {
     "name": "Akashvani Kohima",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/f5861f9687811aae/f5861f9687811aae.m3u8",
     "state": "NAGALAND",
     "language": "Nagamese, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/536",
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "FM Tragopan Kohima",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/fff99886b825e2ae/fff99886b825e2ae.m3u8",
     "state": "NAGALAND",
     "language": "Nagamese, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/244",
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Akashvani Cuttack",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/fbcc67ea837b6ea7/fbcc67ea837b6ea7.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/180",
@@ -1449,7 +1449,7 @@
   },
   {
     "name": "FM Rainbow Cuttack",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/e0ad71c249a45867/e0ad71c249a45867.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/374",
@@ -1457,7 +1457,7 @@
   },
   {
     "name": "VBS Cuttack",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/cde7bdd265f54e70/cde7bdd265f54e70.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/343",
@@ -1473,7 +1473,7 @@
   },
   {
     "name": "Akashvani Joranda",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/3191cc8afa1d559b/3191cc8afa1d559b.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/432",
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "Akashvani Rourkela",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/6f4b24b6ac501e88/6f4b24b6ac501e88.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/221",
@@ -1505,7 +1505,7 @@
   },
   {
     "name": "Akashvani Mahanadi Sambalpur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/a6aee9a607d6b17a/a6aee9a607d6b17a.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/390",
@@ -1513,7 +1513,7 @@
   },
   {
     "name": "Akashvani Sambalpur",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/a6aee9a607d6b17a/a6aee9a607d6b17a.m3u8",
     "state": "ODISHA",
     "language": "Odia, Hindi",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/390",
@@ -1809,11 +1809,19 @@
   },
   {
     "name": "Akashvani Madurai",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/5c28fdbb318c1f13/5c28fdbb318c1f13.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/385",
     "epg_id": "247"
+  },
+  {
+    "name": "Akashvani Madurai FM",
+    "stream_url": "https://radio.wavespb.com/live/f910c4cf0415b953/f910c4cf0415b953.m3u8",
+    "state": "TAMIL NADU",
+    "language": "Tamil, English",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/#",
+    "epg_id": "305"
   },
   {
     "name": "FM Nagercoil Kumari",
@@ -1833,7 +1841,7 @@
   },
   {
     "name": "Akashvani Tiruchirappalli",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/bd8f073da8cde368/bd8f073da8cde368.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/198",
@@ -1841,7 +1849,7 @@
   },
   {
     "name": "Akashvani Tiruchirappalli FM",
-    "stream_url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8",
+    "stream_url": "https://radio.wavespb.com/live/340834aaac8e1081/340834aaac8e1081.m3u8",
     "state": "TAMIL NADU",
     "language": "Tamil, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/199",
