@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-07-27 20:01:37
+*Last updated: 2026-07-28 19:57:54
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -194,7 +194,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | FM Tragopan Kohima | [Stream](https://radio.wavespb.com/live/fff99886b825e2ae/fff99886b825e2ae.m3u8) | NAGALAND | Nagamese, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/244) |
 | Akashvani Baripada | [Stream](https://radio.wavespb.com/live/9a5be453a1319cad/9a5be453a1319cad.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/418) |
 | Akashvani Berhampur | [Stream](https://radio.wavespb.com/live/9ff9e2581893d28d/9ff9e2581893d28d.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/409) |
-| Akashvani Bhawanipatna | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8) | ODISHA | Odia, Hindi | N/A |
+| Akashvani Bhawanipatna | [Stream](https://radio.wavespb.com/live/01249e3a4e4625bf/01249e3a4e4625bf.m3u8) | ODISHA | Odia, Hindi | N/A |
 | Akashvani Balangir | [Stream](https://radio.wavespb.com/live/6a8a1c15dc441c4e/6a8a1c15dc441c4e.m3u8) | ODISHA | Odia, Hindi | N/A |
 | Akashvani Cuttack | [Stream](https://radio.wavespb.com/live/fbcc67ea837b6ea7/fbcc67ea837b6ea7.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/180) |
 | FM Rainbow Cuttack | [Stream](https://radio.wavespb.com/live/e0ad71c249a45867/e0ad71c249a45867.m3u8) | ODISHA | Odia, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/374) |
