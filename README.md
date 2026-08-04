@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-07-30 19:58:55
+*Last updated: 2026-08-04 20:06:04
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -125,7 +125,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Kochi | [Stream](https://radio.wavespb.com/live/70400e7510e87cdf/70400e7510e87cdf.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/329) |
 | Akashvani Calicut | [Stream](https://radio.wavespb.com/live/8321393de70015fc/8321393de70015fc.m3u8) | KERALA | Malayalam, English | N/A |
 | Akashvani Kozhikode Real FM | [Stream](https://radio.wavespb.com/live/b69c296065db7627/b69c296065db7627.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/197) |
-| Akashvani Manjeri | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/302) |
+| Akashvani Manjeri | [Stream](https://radio.wavespb.com/live/58390a2ed33cea4a/58390a2ed33cea4a.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/302) |
 | Akashvani Thrissur | [Stream](https://radio.wavespb.com/live/f70fdeca437dc326/f70fdeca437dc326.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/224) |
 | Akashvani Kerala | [Stream](https://radio.wavespb.com/live/6ff13de7ea9b53d7/6ff13de7ea9b53d7.m3u8) | KERALA | Malayalam, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/188) |
 | VB MALAYALAM | [Stream](https://radio.wavespb.com/live/ad3a8436a329e2d6/ad3a8436a329e2d6.m3u8) | KERALA | Malayalam, English | N/A |
