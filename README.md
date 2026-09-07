@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-09-06 20:34:42
+*Last updated: 2026-09-07 21:37:44
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -232,7 +232,8 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Sawai Madhopur | [Stream](https://radio.wavespb.com/live/9f2c9cb132d3ae49/9f2c9cb132d3ae49.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/159) |
 | Akashvani Suratgarh | [Stream](https://radio.wavespb.com/live/1c07d04e88eb31c8/1c07d04e88eb31c8.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/165) |
 | Akashvani Udaipur | [Stream](https://radio.wavespb.com/live/85190aca16096832/85190aca16096832.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/149) |
-| Akashvani Udaipur FM Lake City | [Stream](https://radio.wavespb.com/live/71d3cbef594e01a9/71d3cbef594e01a9.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/highlights/150) |
+| Akashvani Udaipur FM Lake City | [Stream](https://radio.wavespb.com/live/71d3cbef594e01a9/71d3cbef594e01a9.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/150) |
+| Akashvani Kotputli | [Stream](https://radio.wavespb.com/live/db62c9a589f741ac/db62c9a589f741ac.m3u8) | RAJASTHAN | Rajasthani, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/157) |
 | Akashvani Gangtok | [Stream](https://radio.wavespb.com/live/a2fa73a479445b3d/a2fa73a479445b3d.m3u8) | SIKKIM | Nepali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/331) |
 | Akashvani Tamil Nadu | [Stream](https://radio.wavespb.com/live/d533f2af4f49bd6f/d533f2af4f49bd6f.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/399) |
 | FM Gold Chennai | [Stream](https://radio.wavespb.com/live/84ad819b3f45dc08/84ad819b3f45dc08.m3u8) | TAMIL NADU | Tamil, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/401) |

@@ -1732,8 +1732,16 @@
     "stream_url": "https://radio.wavespb.com/live/71d3cbef594e01a9/71d3cbef594e01a9.m3u8",
     "state": "RAJASTHAN",
     "language": "Rajasthani, Hindi",
-    "epg_url": "https://cuesheets.prasarbharati.org/highlights/150",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/150",
     "epg_id": "239"
+  },
+  {
+    "name": "Akashvani Kotputli",
+    "stream_url": "https://radio.wavespb.com/live/db62c9a589f741ac/db62c9a589f741ac.m3u8",
+    "state": "RAJASTHAN",
+    "language": "Rajasthani, Hindi",
+    "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/157",
+    "epg_id": "306"
   },
   {
     "name": "Akashvani Gangtok",
