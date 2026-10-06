@@ -12,11 +12,11 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-10-06 00:12:19
+*Last updated: 2026-10-06 22:42:53
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
-| Live News 24x7 | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8) | NATIONAL | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/128) |
+| Live News 24x7 | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi01/air001_Auto.m3u8) | NATIONAL | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/128) |
 | Vividh Bharati | [Stream](https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8) | NATIONAL | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/133) |
 | Raagam | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8) | NATIONAL | Hindi, Tamil, Telugu, Malayalam | [EPG](https://cuesheets.prasarbharati.org/viewsheet/349) |
 | FM Gold Delhi | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/244) |

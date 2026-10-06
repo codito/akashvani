@@ -1,7 +1,7 @@
 [
   {
     "name": "Live News 24x7",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi01/air001_Auto.m3u8",
     "state": "NATIONAL",
     "language": "Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/128",
