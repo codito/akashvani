@@ -12,18 +12,18 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-10-06 22:42:53
+*Last updated: 2026-10-07 23:13:07
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
 | Live News 24x7 | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi01/air001_Auto.m3u8) | NATIONAL | Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/128) |
 | Vividh Bharati | [Stream](https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8) | NATIONAL | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/133) |
 | Raagam | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8) | NATIONAL | Hindi, Tamil, Telugu, Malayalam | [EPG](https://cuesheets.prasarbharati.org/viewsheet/349) |
-| FM Gold Delhi | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/244) |
-| FM Rainbow Delhi | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/243) |
-| Indraprastha | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio006_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/247) |
-| VBS Delhi | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/334) |
-| Akashvani Aaradhana | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8) | DELHI | Hindi | N/A |
+| FM Gold Delhi | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi03/air003_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/244) |
+| FM Rainbow Delhi | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi02/air002_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/243) |
+| Indraprastha | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi06/air006_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/247) |
+| VBS Delhi | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi04/air004_Auto.m3u8) | DELHI | Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/334) |
+| Akashvani Aaradhana | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi05/air005_Auto.m3u8) | DELHI | Hindi | N/A |
 | Akashvani Sri Vijaya Puram (Akashvani Port Blair) | [Stream](https://radio.wavespb.com/live/dc9ff2a05098df5b/dc9ff2a05098df5b.m3u8) | ANDAMAN NICOBAR | Hindi, English, Nicobarese | [EPG](https://cuesheets.prasarbharati.org/viewsheet/345) |
 | Vividh Bharati Vijayapuram | [Stream](https://radio.wavespb.com/live/fbc6b60c0bdf0293/fbc6b60c0bdf0293.m3u8) | ANDAMAN NICOBAR | Hindi, English, Nicobarese | [EPG](https://cuesheets.prasarbharati.org/viewsheet/#) |
 | Akashvani Anantapur | [Stream](https://radio.wavespb.com/live/3bcd83926d6c3cca/3bcd83926d6c3cca.m3u8) | ANDHRA PRADESH | Telugu | [EPG](https://cuesheets.prasarbharati.org/viewsheet/347) |
