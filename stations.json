@@ -17,7 +17,7 @@
   },
   {
     "name": "Raagam",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang04/air036_Auto.m3u8",
     "state": "NATIONAL",
     "language": "Hindi, Tamil, Telugu, Malayalam",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/349",
@@ -697,7 +697,7 @@
   },
   {
     "name": "Akashvani Karnataka",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang01/air033_Auto.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/249",
@@ -713,7 +713,7 @@
   },
   {
     "name": "Rainbow Kannada Kaamanbilu",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang02/air034_Auto.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/355",
@@ -721,7 +721,7 @@
   },
   {
     "name": "VB KANNADA",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang03/air035_Auto.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/290",
