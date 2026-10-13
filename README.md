@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-10-13 00:52:33
+*Last updated: 2026-10-13 22:57:54
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -104,7 +104,7 @@ List of All India Radio (Akashvani) stations updated daily.
 | VBS Ranchi | [Stream](https://radio.wavespb.com/live/d839e1ea3f3fd644/d839e1ea3f3fd644.m3u8) | JHARKHAND | Nagpuri, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/488) |
 | Akashvani Bellari | [Stream](https://radio.wavespb.com/live/5a457983e1e7e12f/5a457983e1e7e12f.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/403) |
 | Akashvani Karnataka | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang01/air033_Auto.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/249) |
-| Amrutvarshini | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8) | KARNATAKA | Kannada, Hindi, English | N/A |
+| Amrutvarshini | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang05/air037_Auto.m3u8) | KARNATAKA | Kannada, Hindi, English | N/A |
 | Rainbow Kannada Kaamanbilu | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang02/air034_Auto.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/355) |
 | VB KANNADA | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang03/air035_Auto.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/290) |
 | Akashvani Bhadravati | [Stream](https://radio.wavespb.com/live/ad5b1f0e1fd2e000/ad5b1f0e1fd2e000.m3u8) | KARNATAKA | Kannada, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/369) |
@@ -160,10 +160,10 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Jalgaon | [Stream](https://radio.wavespb.com/live/bd41e24a31710397/bd41e24a31710397.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/309) |
 | Akashvani Kolhapur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/137) |
 | Akashvani Marathi Mumbai Asmita | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/126) |
-| FM Gold Mumbai | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/128) |
-| FM Rainbow Mumbai | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/129) |
-| Samvadita Mumbai | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/127) |
-| VBS Mumbai | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/133) |
+| FM Gold Mumbai | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum01/air049_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/128) |
+| FM Rainbow Mumbai | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum02/air050_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/129) |
+| Samvadita Mumbai | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum04/air052_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/127) |
+| VBS Mumbai | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum05/air053_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/133) |
 | VBS Nagpur | [Stream](https://radio.wavespb.com/live/019f90c3d79daeb9/019f90c3d79daeb9.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/139) |
 | Akashvani Nagpur | [Stream](https://radio.wavespb.com/live/84ad8273437552d7/84ad8273437552d7.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/138) |
 | Akashvani Nanded | [Stream](https://radio.wavespb.com/live/111df0bc650820de/111df0bc650820de.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/226) |
@@ -282,15 +282,15 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Almora | [Stream](https://radio.wavespb.com/live/38719309b3b91cdc/38719309b3b91cdc.m3u8) | UTTARAKHAND | Garhwali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/326) |
 | Akashvani Dehradun | [Stream](https://radio.wavespb.com/live/355939733d28e2e7/355939733d28e2e7.m3u8) | UTTARAKHAND | Garhwali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/408) |
 | Akashvani Pauri | [Stream](https://radio.wavespb.com/live/101ea47cdd9c59df/101ea47cdd9c59df.m3u8) | UTTARAKHAND | Garhwali, Hindi | [EPG](https://cuesheets.prasarbharati.org/viewsheet/306) |
-| Akashvani Bangla | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
-| Akashvani Kolkata Geetanjali | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
-| Akashvani Kolkata Sanchayita | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
-| FM Gold Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |
-| FM Rainbow Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |
-| VBS Kolkata | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/413) |
+| Akashvani Bangla | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol07/air071_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
+| Akashvani Kolkata Geetanjali | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol01/air065_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
+| Akashvani Kolkata Sanchayita | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol02/air066_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
+| FM Gold Kolkata | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol06/air070_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |
+| FM Rainbow Kolkata | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol05/air069_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | N/A |
+| VBS Kolkata | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol04/air068_Auto.m3u8) | WEST BENGAL | Bengali, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/413) |
 | Akashvani Kurseong | [Stream](https://radio.wavespb.com/live/1f781b48497e67d3/1f781b48497e67d3.m3u8) | WEST BENGAL | Bengali | [EPG](https://cuesheets.prasarbharati.org/viewsheet/287) |
 | Akashvani Murshidabad | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8) | WEST BENGAL | Bengali | N/A |
 | Akashvani Shantiniketan | [Stream](https://radio.wavespb.com/live/66249dfecaf80241/66249dfecaf80241.m3u8) | WEST BENGAL | Bengali | N/A |
-| Akashvani Maitree | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
+| Akashvani Maitree | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol03/air067_Auto.m3u8) | WEST BENGAL | Bengali | N/A |
 | Akashvani Siliguri | [Stream](https://radio.wavespb.com/live/165856ba98ca031a/165856ba98ca031a.m3u8) | WEST BENGAL | Bengali | [EPG](https://cuesheets.prasarbharati.org/viewsheet/482) |
 <!-- END: station list -->

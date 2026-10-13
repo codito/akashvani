@@ -705,7 +705,7 @@
   },
   {
     "name": "Amrutvarshini",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang05/air037_Auto.m3u8",
     "state": "KARNATAKA",
     "language": "Kannada, Hindi, English",
     "epg_url": "",
@@ -1153,7 +1153,7 @@
   },
   {
     "name": "FM Gold Mumbai",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum01/air049_Auto.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/128",
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "FM Rainbow Mumbai",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum02/air050_Auto.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/129",
@@ -1169,7 +1169,7 @@
   },
   {
     "name": "Samvadita Mumbai",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum04/air052_Auto.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/127",
@@ -1177,7 +1177,7 @@
   },
   {
     "name": "VBS Mumbai",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum05/air053_Auto.m3u8",
     "state": "MAHARASHTRA",
     "language": "Marathi, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/133",
@@ -2129,7 +2129,7 @@
   },
   {
     "name": "Akashvani Bangla",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol07/air071_Auto.m3u8",
     "state": "WEST BENGAL",
     "language": "Bengali",
     "epg_url": "",
@@ -2137,7 +2137,7 @@
   },
   {
     "name": "Akashvani Kolkata Geetanjali",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol01/air065_Auto.m3u8",
     "state": "WEST BENGAL",
     "language": "Bengali",
     "epg_url": "",
@@ -2145,7 +2145,7 @@
   },
   {
     "name": "Akashvani Kolkata Sanchayita",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol02/air066_Auto.m3u8",
     "state": "WEST BENGAL",
     "language": "Bengali",
     "epg_url": "",
@@ -2153,7 +2153,7 @@
   },
   {
     "name": "FM Gold Kolkata",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol06/air070_Auto.m3u8",
     "state": "WEST BENGAL",
     "language": "Bengali, Hindi, English",
     "epg_url": "",
@@ -2161,7 +2161,7 @@
   },
   {
     "name": "FM Rainbow Kolkata",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol05/air069_Auto.m3u8",
     "state": "WEST BENGAL",
     "language": "Bengali, Hindi, English",
     "epg_url": "",
@@ -2169,7 +2169,7 @@
   },
   {
     "name": "VBS Kolkata",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol04/air068_Auto.m3u8",
     "state": "WEST BENGAL",
     "language": "Bengali, Hindi, English",
     "epg_url": "https://cuesheets.prasarbharati.org/viewsheet/413",
@@ -2201,7 +2201,7 @@
   },
   {
     "name": "Akashvani Maitree",
-    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8",
+    "stream_url": "https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol03/air067_Auto.m3u8",
     "state": "WEST BENGAL",
     "language": "Bengali",
     "epg_url": "",
