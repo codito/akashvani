@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-11-01 22:13:49
+*Last updated: 2026-11-03 01:06:14
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
