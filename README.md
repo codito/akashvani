@@ -12,7 +12,7 @@ List of All India Radio (Akashvani) stations updated daily.
 ---
 
 <!-- BEGIN: station list -->
-*Last updated: 2026-11-10 01:40:10
+*Last updated: 2026-11-10 23:36:34
 
 | Channel Name | Stream URL | State | Language | Programme Guide |
 |--------------|------------|-------|----------|-----------------|
@@ -159,10 +159,10 @@ List of All India Radio (Akashvani) stations updated daily.
 | Akashvani Dhule | [Stream](https://radio.wavespb.com/live/c0040b54233d76a1/c0040b54233d76a1.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/134) |
 | Akashvani Jalgaon | [Stream](https://radio.wavespb.com/live/bd41e24a31710397/bd41e24a31710397.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/309) |
 | Akashvani Kolhapur | [Stream](https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/137) |
-| Akashvani Marathi Mumbai Asmita | [Stream](https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/126) |
+| Akashvani Marathi Mumbai Asmita | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum04/air052_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/126) |
 | FM Gold Mumbai | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum01/air049_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/128) |
 | FM Rainbow Mumbai | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum02/air050_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/129) |
-| Samvadita Mumbai | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum04/air052_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/127) |
+| Samvadita Mumbai | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum03/air051_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/127) |
 | VBS Mumbai | [Stream](https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum05/air053_Auto.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/133) |
 | VBS Nagpur | [Stream](https://radio.wavespb.com/live/019f90c3d79daeb9/019f90c3d79daeb9.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/139) |
 | Akashvani Nagpur | [Stream](https://radio.wavespb.com/live/84ad8273437552d7/84ad8273437552d7.m3u8) | MAHARASHTRA | Marathi, Hindi, English | [EPG](https://cuesheets.prasarbharati.org/viewsheet/138) |
